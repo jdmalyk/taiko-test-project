@@ -3,9 +3,7 @@ This is a simple project demonstrating how to use [Taiko](https://github.com/get
 
 ## Installation
 
-Clone the repository:
-
-```bash
+Clone the repository: ```bash
 git clone <https://github.com/jdmalyk/taiko-test-project>
 cd taiko-test-project
 
