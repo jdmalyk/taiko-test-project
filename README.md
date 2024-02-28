@@ -6,7 +6,7 @@ This is a simple project demonstrating how to use [Taiko](https://github.com/get
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/jdmalyk/taiko-test-project>
 cd taiko-test-project
 
 ## Install dependencies: npm install
